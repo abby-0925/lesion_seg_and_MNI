@@ -1,0 +1,9 @@
+Seg_registered/DWI_SEG_MODEL_nnunet.onnx
+Seg_registered/DWI_SEG_MODEL_nnunet.onnx
+Seg_registered/model_parts/
+**/__pycache__/
+*.pyc
+Seg_registed/DWI_SEG_MODEL_nnunet.onnx
+Seg_registed/model_parts/
+**/__pycache__/
+*.pyc
